@@ -1,0 +1,40 @@
+.P1{
+     background-image: url(./prtf.jfif);
+     background-repeat: no-repeat;
+     width: 100vw;
+     height: 100vh;
+     color: white;
+     background-size: cover;
+     padding-top: 200px;
+     text-align:center;
+}
+.nav1{
+    position:sticky;
+}
+li{
+  list-style: none;
+}
+.icon{
+    position: absolute;
+    /* position: relative; */
+}
+.contact-info-card{
+    position: relative;
+    /* position: absolute; */
+    font-size: 25px;
+}
+.form-control{
+    font-size: 25px;
+    width: 45vw;
+    height: 5vh;
+}
+.btn{
+    width: 10vw;
+    height: 5vh;
+    text-align: center;
+    align-items: center;
+}
+    
+   
+    
+   
